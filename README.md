@@ -17,3 +17,5 @@ yarn start
 Files are compiled into /src
 
 [View demo site here.](https://webdevtuts.github.io/glozzom_business_site/)
+
+![Preview](screenshot.png)
